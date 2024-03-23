@@ -1,7 +1,7 @@
 // EventPreview.js
 
 //Maybe add 'favourite' feature to let users mark events they're interested in
-import React from 'react';
+
 import React from 'react';
 import { View, Text, StyleSheet, Button } from 'react-native';
 
