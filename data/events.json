@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "title": "Community Picnic at Central Park",
+      "description": "Join the community picnic at Central Park this Sunday at 11 AM for fun and music...",
+      "details": "Join the community picnic at Central Park this Sunday at 11 AM for fun and music. Bring your picnic blanket and enjoy an array of local food trucks. The event will take place near the central fountain, providing a beautiful backdrop for a day of community bonding and relaxation."
+    },
+    {
+      "id": "2",
+      "title": "Downtown Marathon",
+      "description": "Saturday's marathon means downtown road closures from 6 AM. Plan your travel and...",
+      "details": "Saturday's marathon means downtown road closures from 6 AM. Plan your travel and cheer on the runners! The marathon will start at City Hall, winding through historic downtown streets, and conclude at Riverside Park by 1 PM, followed by an award ceremony and community festivities."
+    },
+    {
+      "id": "3",
+      "title": "New Exhibition at City Gallery",
+      "description": "City Gallery's new art exhibition opens Friday at 7 PM. Enjoy local art and free refreshments...",
+      "details": "City Gallery's new art exhibition opens Friday at 7 PM. Enjoy local art and free refreshments. Located at 45 Art Street, the exhibition will feature contemporary pieces from emerging artists. The opening night will include a meet-and-greet with the artists, making it a perfect evening for art enthusiasts."
+    },
+    {
+      "id": "4",
+      "title": "Rosy's Garden Show",
+      "description": "Don't miss next weekend's Flower and Garden Show for the latest in gardening trends...",
+      "details": "Don't miss next weekend's Flower and Garden Show for the latest in gardening trends. The show will be held in the Greenhouse Complex at Botanical Gardens, starting at 10 AM on Saturday. Attendees will have the chance to participate in workshops, purchase unique plants, and get gardening advice from experts."
+    },
+    {
+      "id": "5",
+      "title": "Beach Rescue",
+      "description": "Help clean the river this Saturday at 8 AM. Meet at the main entrance. Supplies provided...",
+      "details": "Help clean the river this Saturday at 8 AM. Meet at the main entrance. Supplies provided. This event will focus on collecting and recycling as much waste as possible. After the cleanup, join us for a group photo to celebrate our collective effort in making a difference, followed by refreshments at the nearby community center."
+    },
+    {
+      "id": "6",
+      "title": "Jazz Night",
+      "description": "Experience an unforgettable evening of live jazz music under the night sky at the City Park Amphitheater...",
+      "details": "Experience an unforgettable evening of live jazz music under the night sky at the City Park Amphitheater this Friday at 8 PM. Bring your lawn chairs or blankets and settle in for performances by local jazz ensembles. Refreshments will be available for purchase. The amphitheater is located at 100 Park Ave, offering a stellar view of the city skyline as the backdrop for the night."
+    },
+    {
+      "id": "7",
+      "title": "Local Farmers' Market",
+      "description": "Visit the Local Farmers' Market at Central Plaza every Sunday from 9 AM to 2 PM for fresh produce, homemade goods, and more...",
+      "details": "Visit the Local Farmers' Market at Central Plaza every Sunday from 9 AM to 2 PM for fresh produce, homemade goods, and more. Over 50 vendors will be present, offering everything from organic fruits and vegetables to artisanal cheeses and handcrafted jewellery. Central Plaza is located at 200 Main Street, providing a vibrant gathering space for the community to support local farmers and small businesses."
+    },  
+    {
+      "id": "8",
+      "title": "Tech Innovators Conference",
+      "description": "Join us at the Convention Centre for the annual Tech Innovators Conference, showcasing cutting-edge technology and inspiring talks...",
+      "details": "Join us at the Convention Centre for the annual Tech Innovators Conference, showcasing cutting-edge technology and inspiring talks. The event kicks off next Thursday at 9 AM and runs through Friday. This year's conference, located at 500 Tech Parkway, will feature keynote speeches from industry leaders, interactive workshops, and an expo floor where startups and established companies alike will demonstrate their latest innovations. Whether you're a tech enthusiast or a professional in the field, this event is an excellent opportunity to network and learn about future trends."
+    }
+  ]
+  

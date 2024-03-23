@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "title": "Community Chat",
+      "preview": "Jane: Hello everyone, welcome to our community chat!",
+      "address": null
+    },
+    {
+      "id": "2",
+      "title": "36 Frith Road Croydon CR0 1TD",
+      "preview": "You: Hi, are we still meeting tomorrow?",
+      "address": "36 Frith Road Croydon CR0 1TD"
+    },
+    {
+      "id": "3",
+      "title": "9 Sylverdale Road Croydon CR0 4LD",
+      "preview": "You: That sounds great, thank you!",
+      "address": "9 Sylverdale Road Croydon CR0 4LD"
+    },
+    {
+      "id": "4",
+      "title": "122A Waddon New Rd Croydon CR0 4JF",
+      "preview": "You: I left the package at your doorstep.",
+      "address": "122A Waddon New Rd Croydon CR0 4JF"
+    },
+    {
+      "id": "5",
+      "title": "12B St John's Rd Croydon CR0 1RX",
+      "preview": "You: I will be there in 10 minutes.",
+      "address": "12B St John's Rd Croydon CR0 1RX"
+    }
+  ]
+  
